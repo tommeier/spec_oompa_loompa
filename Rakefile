@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "spec_oompa_loompa"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Helpful Spec Helpers with Orange Hair}
+    gem.description = %Q{Spec helpers}
     gem.email = "ozmeier@yahoo.co.uk"
     gem.homepage = "http://github.com/tommeier/spec_oompa_loompa"
     gem.authors = ["Tom Meier"]
