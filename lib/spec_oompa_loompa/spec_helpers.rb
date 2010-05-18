@@ -1,5 +1,5 @@
 module SpecOmpaLoompa
-   module TestHelpers
+   module SpecHelpers
      #TODO : Write specs
      # Easily alter constants within specs to test effects
      # @param constants Hash A hash of constants and their values
