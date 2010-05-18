@@ -1,4 +1,4 @@
-module SpecOompaLoompa
+module SpecOmpaLoompa
    module TestHelpers
      #TODO : Write specs
      # Easily alter constants within specs to test effects
